@@ -192,3 +192,4 @@
 /Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.pdb
 /Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.genruntimeconfig.cache
 /Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/ref/Test.dll
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.sourcelink.json

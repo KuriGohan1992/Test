@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vSIg/CNixbBfoR/fg4z7sIBffQK94WujfIen5EGUke0=",
+  "Hash": "G+9XraYcKS3G2J91z3hgfmfH6KBRYUnRmug8KjCLl5Q=",
   "Source": "Test",
   "BasePath": "_content/Test",
   "Mode": "Default",
@@ -1443,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/wwwroot/Images/pic.jpg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/wwwroot/",
+      "BasePath": "_content/Test",
+      "RelativePath": "Images/pic#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7mjlvlzq9",
+      "Integrity": "wufQk9gqkbO6aNvkoG5Rm52EL5iPeesfoGRnpJJnay8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/pic.jpg"
     },
     {
       "Identity": "/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/wwwroot/js/site.js",
@@ -3320,6 +3341,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/pic.jpg",
+      "AssetFile": "/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/wwwroot/Images/pic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wufQk9gqkbO6aNvkoG5Rm52EL5iPeesfoGRnpJJnay8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 05:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wufQk9gqkbO6aNvkoG5Rm52EL5iPeesfoGRnpJJnay8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/pic.y7mjlvlzq9.jpg",
+      "AssetFile": "/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/wwwroot/Images/pic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wufQk9gqkbO6aNvkoG5Rm52EL5iPeesfoGRnpJJnay8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 05:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7mjlvlzq9"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/pic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wufQk9gqkbO6aNvkoG5Rm52EL5iPeesfoGRnpJJnay8="
         }
       ]
     },

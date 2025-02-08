@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/Test.klhft53lco.bundle.scp.css"
     },
     {
+      "Id": "/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/wwwroot/Images/pic.jpg",
+      "PackagePath": "staticwebassets/Images/pic.jpg"
+    },
+    {
       "Id": "/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
