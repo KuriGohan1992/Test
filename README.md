@@ -1,2 +1,1 @@
-Mendez, Charl Emmanuel E.
-Mamplata, Jethro G.
+Charl Emmanuel E. Mendez and Jethro G. Mamplata
