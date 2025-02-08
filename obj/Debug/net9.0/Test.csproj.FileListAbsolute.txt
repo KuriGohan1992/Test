@@ -1,0 +1,194 @@
+/Users/cham/temp/Test/bin/Debug/net9.0/appsettings.Development.json
+/Users/cham/temp/Test/bin/Debug/net9.0/appsettings.json
+/Users/cham/temp/Test/bin/Debug/net9.0/Test.staticwebassets.runtime.json
+/Users/cham/temp/Test/bin/Debug/net9.0/Test.staticwebassets.endpoints.json
+/Users/cham/temp/Test/bin/Debug/net9.0/Test
+/Users/cham/temp/Test/bin/Debug/net9.0/Test.deps.json
+/Users/cham/temp/Test/bin/Debug/net9.0/Test.runtimeconfig.json
+/Users/cham/temp/Test/bin/Debug/net9.0/Test.dll
+/Users/cham/temp/Test/bin/Debug/net9.0/Test.pdb
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.AssemblyInfoInputs.cache
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.AssemblyInfo.cs
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.csproj.CoreCompileInputs.cache
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.MvcApplicationPartsAssemblyInfo.cache
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.RazorAssemblyInfo.cache
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.RazorAssemblyInfo.cs
+/Users/cham/temp/Test/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/cham/temp/Test/obj/Debug/net9.0/scopedcss/bundle/Test.styles.css
+/Users/cham/temp/Test/obj/Debug/net9.0/scopedcss/projectbundle/Test.bundle.scp.css
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/adfvanopau-61n19gt1b8.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/ojyoasusly-xtxxf3hu2r.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/t5f93v65r0-bqjiyaj88i.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/0owraomwnq-c2jlpeoesf.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/skdwwpfll7-erw9l3u2r3.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/35vivp2yzt-aexeepp0ev.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/y0bgyqvrl0-d7shbmvgxk.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/dtp27510fc-ausgxo2sd3.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/vwodkwlwgv-k8d9w2qqmf.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/a5lp74nca8-cosvhxvwiu.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/oa9ezczhz3-ub07r2b239.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/8kfrxjc492-fvhpjtyr6v.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/skm49jr71i-b7pk76d08c.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/zj2hlizwvq-fsbi9cje9m.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/0bnbf7zn0g-rzd6atqjts.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/sms1xdvctm-ee0r1s7dh0.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/euz00kmnvi-dxx9fxp4il.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/dz23qnheer-jd9uben2k1.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/z0hnn3q4bu-khv3u5hwcm.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/n1qx01828q-r4e9w2rdcm.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/abx3ry6qnh-lcd1t2u6c8.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/rjf3852h5i-c2oey78nd0.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/dsgyz97caf-tdbxkamptv.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/71ryyhzd8n-j5mq2jizvt.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/586cjos8zz-06098lyss8.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/b6rafaktxz-nvvlpmu67g.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/pxhjyihw0c-s35ty4nyc5.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/01mxyh2ab8-pj5nd1wqec.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/t2723so85v-46ein0sx1k.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/hq6wrzu6ro-v0zj4ognzu.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/cwvgfkaeuu-37tfw0ft22.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/z0gyity7se-hrwsygsryq.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/4fthqto817-pk9g2wxc8p.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/0y3rfxgx8x-ft3s53vfgj.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/di9ghmkbbq-6cfz1n2cew.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/8lco3j0o9r-6pdc2jztkx.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/g5c6mhh3dg-493y06b0oq.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/7y9vwpz7t0-iovd86k7lj.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/pjnncqav9b-vr1egmr9el.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/vfuy8oz6k6-kbrnm935zg.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/8kminy1zkq-jj8uyg4cgr.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/p3r12mu4sx-y7v9cxd14o.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/gkn4rvukf7-notf2xhcfb.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/7wrmn3w2r2-h1s4sie4z3.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/oqwv3s21ug-63fj8s7r0e.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/ohg0fqatm7-0j3bgjxly4.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/9likfdnnt4-47otxtyo56.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/gqlszz9rgs-4v8eqarkd7.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/w1nb9o2rib-356vix0kms.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/btbyvlo05r-83jwlth58m.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/dh9p0axskh-mrlpezrjn3.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/zjw7f49mm0-lzl9nlhx6b.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/ut2y8cgmi2-ag7o75518u.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/iaxke8dq2c-x0q3zqp4vz.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/my7mnoj35b-0i3buxo5is.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/t6ehs0l9to-o1o13a6vjx.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/hxzy9kz0tm-ttgo8qnofa.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/w2z2dlrdet-2z0ns9nrw6.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/8j4xohs6hh-muycvpuwrr.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/91cni29k1m-87fc7y1x7t.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/txc9ln88ob-mlv21k5csn.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/5i2h0m8piw-klhft53lco.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/97d1gyp0oo-klhft53lco.gz
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets.build.json
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets.development.json
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets/msbuild.build.Test.props
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Test.props
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Test.props
+/Users/cham/temp/Test/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.dll
+/Users/cham/temp/Test/obj/Debug/net9.0/refint/Test.dll
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.pdb
+/Users/cham/temp/Test/obj/Debug/net9.0/Test.genruntimeconfig.cache
+/Users/cham/temp/Test/obj/Debug/net9.0/ref/Test.dll
+/Users/cham/temp/Test/obj/Debug/net9.0/compressed/61m1vhim1n-f1iuykigl5.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/appsettings.Development.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/appsettings.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/Test.staticwebassets.endpoints.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/Test.staticwebassets.runtime.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/Test
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/Test.deps.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/Test.runtimeconfig.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/Test.dll
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/bin/Debug/net9.0/Test.pdb
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.AssemblyInfoInputs.cache
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.AssemblyInfo.cs
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.csproj.CoreCompileInputs.cache
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.MvcApplicationPartsAssemblyInfo.cache
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.RazorAssemblyInfo.cache
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.RazorAssemblyInfo.cs
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/scopedcss/bundle/Test.styles.css
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/scopedcss/projectbundle/Test.bundle.scp.css
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/61m1vhim1n-f1iuykigl5.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/adfvanopau-61n19gt1b8.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/ojyoasusly-xtxxf3hu2r.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/t5f93v65r0-bqjiyaj88i.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/0owraomwnq-c2jlpeoesf.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/skdwwpfll7-erw9l3u2r3.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/35vivp2yzt-aexeepp0ev.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/y0bgyqvrl0-d7shbmvgxk.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/dtp27510fc-ausgxo2sd3.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/vwodkwlwgv-k8d9w2qqmf.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/a5lp74nca8-cosvhxvwiu.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/oa9ezczhz3-ub07r2b239.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/8kfrxjc492-fvhpjtyr6v.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/skm49jr71i-b7pk76d08c.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/zj2hlizwvq-fsbi9cje9m.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/0bnbf7zn0g-rzd6atqjts.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/sms1xdvctm-ee0r1s7dh0.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/euz00kmnvi-dxx9fxp4il.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/dz23qnheer-jd9uben2k1.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/z0hnn3q4bu-khv3u5hwcm.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/n1qx01828q-r4e9w2rdcm.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/abx3ry6qnh-lcd1t2u6c8.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/rjf3852h5i-c2oey78nd0.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/dsgyz97caf-tdbxkamptv.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/71ryyhzd8n-j5mq2jizvt.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/586cjos8zz-06098lyss8.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/b6rafaktxz-nvvlpmu67g.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/pxhjyihw0c-s35ty4nyc5.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/01mxyh2ab8-pj5nd1wqec.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/t2723so85v-46ein0sx1k.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/hq6wrzu6ro-v0zj4ognzu.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/cwvgfkaeuu-37tfw0ft22.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/z0gyity7se-hrwsygsryq.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/4fthqto817-pk9g2wxc8p.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/0y3rfxgx8x-ft3s53vfgj.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/di9ghmkbbq-6cfz1n2cew.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/8lco3j0o9r-6pdc2jztkx.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/g5c6mhh3dg-493y06b0oq.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/7y9vwpz7t0-iovd86k7lj.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/pjnncqav9b-vr1egmr9el.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/vfuy8oz6k6-kbrnm935zg.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/8kminy1zkq-jj8uyg4cgr.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/p3r12mu4sx-y7v9cxd14o.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/gkn4rvukf7-notf2xhcfb.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/7wrmn3w2r2-h1s4sie4z3.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/oqwv3s21ug-63fj8s7r0e.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/ohg0fqatm7-0j3bgjxly4.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/9likfdnnt4-47otxtyo56.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/gqlszz9rgs-4v8eqarkd7.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/w1nb9o2rib-356vix0kms.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/btbyvlo05r-83jwlth58m.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/dh9p0axskh-mrlpezrjn3.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/zjw7f49mm0-lzl9nlhx6b.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/ut2y8cgmi2-ag7o75518u.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/iaxke8dq2c-x0q3zqp4vz.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/my7mnoj35b-0i3buxo5is.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/t6ehs0l9to-o1o13a6vjx.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/hxzy9kz0tm-ttgo8qnofa.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/w2z2dlrdet-2z0ns9nrw6.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/8j4xohs6hh-muycvpuwrr.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/91cni29k1m-87fc7y1x7t.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/txc9ln88ob-mlv21k5csn.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/5i2h0m8piw-klhft53lco.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/compressed/97d1gyp0oo-klhft53lco.gz
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets.build.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets.development.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets/msbuild.build.Test.props
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Test.props
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Test.props
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.dll
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/refint/Test.dll
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.pdb
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/Test.genruntimeconfig.cache
+/Users/cham/Documents/BSCS 2A/2nd Semester/CSPL101/css_activity/Test/obj/Debug/net9.0/ref/Test.dll
